@@ -1,0 +1,28 @@
+_repo: The-Battle-of-Bayan-and-Other-Battles_23573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Allen, James Edgar
+    gutenberg_agent_id: '25914'
+    url: http://www.gutenberg.org/2009/agents/25914
+  - agent_name: Reidy, John J.
+    gutenberg_agent_id: '25915'
+    url: http://www.gutenberg.org/2009/agents/25915
+description: ''
+gutenberg_issued: '2007-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'United States. Army -- History'
+- !lcsh 'Philippines -- History -- 1898-1946'
+title: The Battle of Bayan and Other Battles
+url: http://www.gutenberg.org/ebooks/23573
